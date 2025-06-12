@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.env
+.env
+.venv
+venv/
+*.sqlite3
+.DS_Store
+
+# VSCode or Jupyter
+.vscode/
+.ipynb_checkpoints/
+
+# LangChain/Secrets
+*.json
+*.db
+openai_api_key.txt
+*.env
