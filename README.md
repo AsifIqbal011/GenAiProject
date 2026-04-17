@@ -143,18 +143,6 @@ Main packages used in this project:
 * Support multiple documents
 * Add prompt templates and memory support
 
-## License
-
-Add a license if you want to share or reuse this project publicly.
-
 ## Author
 
 Asif Iqbal
-
-```
-
-I can also :contentReference[oaicite:2]{index=2}.
-::contentReference[oaicite:1]{index=1}
-```
-
-[1]: https://github.com/AsifIqbal011/GenAiProject "GitHub - AsifIqbal011/GenAiProject: Practicing GEN Ai and LangChain · GitHub"
