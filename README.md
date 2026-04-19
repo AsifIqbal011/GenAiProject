@@ -1,4 +1,4 @@
-````markdown
+
 # GenAiProject
 
 Practicing GenAI and LangChain with a simple notebook-based workflow for talking to an LLM and experimenting with retrieval-augmented generation (RAG) on PDF content.
